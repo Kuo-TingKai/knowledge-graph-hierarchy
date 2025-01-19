@@ -228,3 +228,22 @@ if __name__ == "__main__":
         merged_tree, common_nodes = merge_trees(tree1, tree2)
         print_tree_visual(merged_tree, common_nodes)
         save_tree_to_file(merged_tree, "merged_result.txt")
+
+# 讀取獲利模式樹和市場價值樹
+benefit_tree1 = load_tree_from_file("benefit1.txt")
+benefit_tree2 = load_tree_from_file("benefit2.txt")
+
+print("\n獲利模式分類樹:")
+print_tree_visual(benefit_tree1)
+
+print("\n市場價值分類樹:")
+print_tree_visual(benefit_tree2)
+
+# 合併兩棵樹
+merged_benefit_tree, common_benefit_nodes = merge_trees(benefit_tree1, benefit_tree2)
+
+print("\n合併後的商業評價樹 (標記 [*] 為共同節點):")
+print_tree_visual(merged_benefit_tree, common_benefit_nodes)
+
+# 保存合併結果
+save_tree_to_file(merged_benefit_tree, "merged_benefit_result.txt")
