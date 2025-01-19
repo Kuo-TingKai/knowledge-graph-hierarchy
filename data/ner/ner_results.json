@@ -1,0 +1,191 @@
+[
+  {
+    "text": "醫師",
+    "label": "MEDICAL",
+    "start": 3,
+    "end": 5,
+    "is_medical": true
+  },
+  {
+    "text": "醫學",
+    "label": "MEDICAL",
+    "start": 8,
+    "end": 10,
+    "is_medical": true
+  },
+  {
+    "text": "美容",
+    "label": "MEDICAL",
+    "start": 10,
+    "end": 12,
+    "is_medical": true
+  },
+  {
+    "text": "皮膚",
+    "label": "MEDICAL",
+    "start": 20,
+    "end": 22,
+    "is_medical": true
+  },
+  {
+    "text": "保養品",
+    "label": "MEDICAL",
+    "start": 42,
+    "end": 45,
+    "is_medical": true
+  },
+  {
+    "text": "雷射",
+    "label": "MEDICAL",
+    "start": 122,
+    "end": 124,
+    "is_medical": true
+  },
+  {
+    "text": "醫療",
+    "label": "MEDICAL",
+    "start": 136,
+    "end": 138,
+    "is_medical": true
+  },
+  {
+    "text": "醫院",
+    "label": "MEDICAL",
+    "start": 235,
+    "end": 237,
+    "is_medical": true
+  },
+  {
+    "text": "皮膚科",
+    "label": "MEDICAL",
+    "start": 237,
+    "end": 240,
+    "is_medical": true
+  },
+  {
+    "text": "(醫學",
+    "label": "MEDICAL",
+    "start": 295,
+    "end": 298,
+    "is_medical": true
+  },
+  {
+    "text": "王正坤",
+    "label": "PERSON",
+    "start": 0,
+    "end": 3,
+    "is_medical": false
+  },
+  {
+    "text": "FreeVenus",
+    "label": "PERSON",
+    "start": 31,
+    "end": 40,
+    "is_medical": false
+  },
+  {
+    "text": "台北",
+    "label": "GPE",
+    "start": 74,
+    "end": 76,
+    "is_medical": false
+  },
+  {
+    "text": "行政院",
+    "label": "ORG",
+    "start": 110,
+    "end": 113,
+    "is_medical": false
+  },
+  {
+    "text": "台灣",
+    "label": "GPE",
+    "start": 132,
+    "end": 134,
+    "is_medical": false
+  },
+  {
+    "text": "台南市",
+    "label": "GPE",
+    "start": 146,
+    "end": 149,
+    "is_medical": false
+  },
+  {
+    "text": "亞洲皮膚科醫",
+    "label": "ORG",
+    "start": 184,
+    "end": 190,
+    "is_medical": true
+  },
+  {
+    "text": "中華醫事科技大學講座教授",
+    "label": "ORG",
+    "start": 283,
+    "end": 295,
+    "is_medical": false
+  },
+  {
+    "text": "台灣皮膚科醫",
+    "label": "ORG",
+    "start": 358,
+    "end": 364,
+    "is_medical": true
+  },
+  {
+    "text": "福利部",
+    "label": "ORG",
+    "start": 387,
+    "end": 390,
+    "is_medical": false
+  },
+  {
+    "text": "台南市政府",
+    "label": "ORG",
+    "start": 425,
+    "end": 430,
+    "is_medical": false
+  },
+  {
+    "text": "安南",
+    "label": "PERSON",
+    "start": 438,
+    "end": 440,
+    "is_medical": false
+  },
+  {
+    "text": "台南",
+    "label": "GPE",
+    "start": 495,
+    "end": 497,
+    "is_medical": false
+  },
+  {
+    "text": "台南地方法院醫事類專家",
+    "label": "ORG",
+    "start": 510,
+    "end": 521,
+    "is_medical": false
+  },
+  {
+    "text": "台灣醫",
+    "label": "GPE",
+    "start": 529,
+    "end": 532,
+    "is_medical": false
+  },
+  {
+    "text": "玉山",
+    "label": "LOC",
+    "start": 551,
+    "end": 553,
+    "is_medical": false
+  },
+  {
+    "text": "100",
+    "label": "CARDINAL",
+    "start": 564,
+    "end": 567,
+    "is_medical": false
+  }
+]

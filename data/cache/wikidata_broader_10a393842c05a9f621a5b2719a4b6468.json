@@ -1,0 +1,103 @@
+{
+  "timestamp": 1737272355.254459,
+  "data": {
+    "head": {
+      "vars": [
+        "related",
+        "relatedLabel"
+      ]
+    },
+    "results": {
+      "bindings": [
+        {
+          "related": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q688829"
+          },
+          "relatedLabel": {
+            "xml:lang": "zh",
+            "type": "literal",
+            "value": "药房"
+          }
+        },
+        {
+          "related": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q178706"
+          },
+          "relatedLabel": {
+            "xml:lang": "zh-tw",
+            "type": "literal",
+            "value": "制度"
+          }
+        },
+        {
+          "related": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q628858"
+          },
+          "relatedLabel": {
+            "xml:lang": "zh-tw",
+            "type": "literal",
+            "value": "工作場所"
+          }
+        },
+        {
+          "related": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q46124"
+          },
+          "relatedLabel": {
+            "xml:lang": "zh-tw",
+            "type": "literal",
+            "value": "療養院"
+          }
+        },
+        {
+          "related": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4287745"
+          },
+          "relatedLabel": {
+            "xml:lang": "zh-tw",
+            "type": "literal",
+            "value": "醫療機構"
+          }
+        },
+        {
+          "related": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11000047"
+          },
+          "relatedLabel": {
+            "xml:lang": "zh-tw",
+            "type": "literal",
+            "value": "醫療系統"
+          }
+        },
+        {
+          "related": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q4260475"
+          },
+          "relatedLabel": {
+            "xml:lang": "zh-tw",
+            "type": "literal",
+            "value": "醫療設施"
+          }
+        },
+        {
+          "related": {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q11424"
+          },
+          "relatedLabel": {
+            "xml:lang": "zh-tw",
+            "type": "literal",
+            "value": "電影"
+          }
+        }
+      ]
+    }
+  }
+}
